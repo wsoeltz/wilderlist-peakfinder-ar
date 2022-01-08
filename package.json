@@ -1,0 +1,19 @@
+{
+  "name": "wilderlist-peakfinder-ar",
+  "version": "1.0.0",
+  "description": "Summit view finder for exclusive use with Wilderlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsoeltz/wilderlist-peakfinder-ar.git"
+  },
+  "author": "wsoeltz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/wsoeltz/wilderlist-peakfinder-ar/issues"
+  },
+  "homepage": "https://github.com/wsoeltz/wilderlist-peakfinder-ar#readme"
+}
