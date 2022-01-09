@@ -4,6 +4,7 @@
   "description": "Summit view finder for exclusive use with Wilderlist",
   "main": "index.js",
   "scripts": {
+    "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wsoeltz/wilderlist-peakfinder-ar/issues"
   },
-  "homepage": "https://github.com/wsoeltz/wilderlist-peakfinder-ar#readme"
+  "homepage": "https://github.com/wsoeltz/wilderlist-peakfinder-ar#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
 }
